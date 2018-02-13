@@ -1,0 +1,8 @@
+this is my first file.
+<<<<<<< HEAD
+update from first file.
+a new line added.
+=======
+edit from f2 branch.
+local change done from f2 branch.
+>>>>>>> f2
