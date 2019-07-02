@@ -1,6 +1,0 @@
-this is my first file.
-update from first file.
-testing github desktop software.
-
-Now, I am trying to test amend feature to change previous commit message.
-
